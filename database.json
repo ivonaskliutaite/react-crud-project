@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "title": "Mini-burger'is",
+      "ingridients": "Jautiena, svogūnai, soja, sūris, marinuoti agurkai, mėsainių bandelės, pomidorų padažas",
+      "categoryId": "1",
+      "img": "https://www.lamaistas.lt/uploads/modules/recipes/without-watermark/20042.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Traški vištiena",
+      "ingridients": "Vištiena, česnakas, aitriosios paprikos, miltai, dživesėliai, kiaušiniai",
+      "categoryId": "1",
+      "img": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/27721.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Pica",
+      "ingridients": "Bulvės, svogūnai, kiaušiniai, sūris, kiaulienos šoninė, pomidorų padažas",
+      "categoryId": "1",
+      "img": "https://worldrecipes.eu/storage/65043/conversions/klasikine-pica-su-kumpiu-ir-suriu-medium.webp"
+    },
+    {
+      "id": "4",
+      "title": "Vištienos ir grikių kotletukai",
+      "ingridients": "Vištiena, grikiai, kiaušiniai, svogūnai, česnakai",
+      "categoryId": "2",
+      "img": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/15959.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Ratatouille",
+      "ingridients": "Cukinija, baklažanas, pomidorai, sūris, pomidorų padažas, paprikos, svogūnai",
+      "categoryId": "2",
+      "img": "https://www.lamaistas.lt/uploads/modules/articles/thumb920x573/2019/07/zavingas-darzoviu-ratatouille-rodome-zingsnis-po-zingsnio-45076.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Stir-fry",
+      "ingridients": "Vištiena, česnakas, brokolis, soja, imbieras, paprikos, krakmolo",
+      "categoryId": "2",
+      "img": "https://www.lamaistas.lt/uploads/modules/articles/thumb920x573/2018/09/kaip-lengvai-paruosti-maistinga-stir-fry-pagrindiniai-principai-ir-zingsnis-po-zingsnio-receptas-44933.jpg"
+    },
+    {
+      "title": "Višta",
+      "categoryId": 1,
+      "img": "https://www.lamaistas.lt/uploads/modules/recipes/thumb920x573/34659.jpg",
+      "ingridients": "sūris, feta, špinatai, višta",
+      "id": "BNOzIuf"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "fast-food"
+    },
+    {
+      "id": 2,
+      "title": "healthy-food"
+    }
+  ]
+}
